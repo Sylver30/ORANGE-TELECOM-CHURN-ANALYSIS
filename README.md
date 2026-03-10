@@ -1,5 +1,9 @@
 This Telecom Churn Analysis examines customer data from Orange Telecom to understand the factors that influence why customers leave the service. The analysis focuses mainly on customer service interactions, subscription plans, and usage patterns to identify behaviours that are associated with a higher likelihood of churn. The study seeks to identify patterns that differentiate loyal customers from those who churn. The insights generated can help telecom companies improve customer retention strategies, enhance service quality and design better pricing and that of service plans. 
+
+
 Objectives
+
+
 1)	Customer Service Performance as a Predictor of Churn
 2)	Plan subscription and usage as drivers of churn 
 
